@@ -8,3 +8,7 @@ alert(arrr)
 
 
 var str='aaaa';
+
+
+
+var obj={s:1}
