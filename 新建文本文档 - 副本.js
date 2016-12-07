@@ -5,3 +5,6 @@ var a=1
 
 var arrr=[]
 alert(arrr)
+
+
+var str='aaaa';
