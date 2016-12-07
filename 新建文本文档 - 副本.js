@@ -4,3 +4,4 @@ var a=1
 }
 
 var arrr=[]
+alert(arrr)
